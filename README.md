@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @black-cloud-org
-- 👀 I’m interested in IT
+- 👀 I’m interested in Microservices
 - 🌱 I’m currently learning GO aka Golang
 - 💞️ I’m looking to collaborate on Kubernetes, Jenkins, Kafka, GO programming
-- 📫 You can reach me on email: bzs7magrd@mozmail.com
+- 📫 You can reach me on email: ieeebc3zu@mozmail.com
 - 🏠 Location: Germany, Frankfurt Oder / Berlin or remote
 
 <!---
